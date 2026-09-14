@@ -10,7 +10,7 @@ An automated, closed-loop pipeline that ingests digital RTL, extracts synthesis 
 ## Submission Deliverables & Links
 
 * **Video Walkthrough (4:00–4:30 min):** [Watch the Demo Video](PASTE_YOUR_YOUTUBE_OR_DRIVE_VIDEO_LINK_HERE)[cite: 3]
-* **Full Round 1 Written Report:** [View Report Document](./Nebula_Round1_Report.docx)[cite: 5]
+* **Full Round 1 Written Report:** [View Report Document](https://docs.google.com/document/d/18FXyLPVF-v8IP5XpvvfB38Z-6v70kNEe/edit?usp=drive_link&ouid=103739974885456130013&rtpof=true&sd=true)[cite: 5]
 * **Target DUT & Constraints Repository:** [External Design-Under-Test & Constraints Repo](https://github.com/vsssanjay48-hub/multi_domain_rtl_soc.git)  
   *(Hosts the complete 5-domain asynchronous fabric, generated clock dividers, domain handshakes, exhaustive testbenches, and SDC constraint files)[cite: 5].*
 
