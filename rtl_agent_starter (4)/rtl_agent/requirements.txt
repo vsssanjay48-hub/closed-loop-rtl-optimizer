@@ -1,0 +1,9 @@
+anthropic>=0.40.0
+
+# External CLI tools required on PATH (not pip-installable) --
+# see USER_MANUAL.md Section 2 for install/verification steps:
+#   iverilog, vvp   (Icarus Verilog)
+#   yosys
+#   sta             (OpenSTA)
+#   eqy             (SymbiYosys equivalence checking frontend)
+#   make            (only needed for the OpenROAD snapshot, agent/openroad_snapshot.py)
